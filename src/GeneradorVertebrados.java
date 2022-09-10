@@ -5,7 +5,8 @@ public class GeneradorVertebrados {
         miVertebrados[1] = new Vertebrado("Vaca", "Mamifero");
         miVertebrados[2] = new Vertebrado("Gorila", "Mamifero");
         miVertebrados[3] = new Vertebrado("Serpiente", "Reptil");
-        miVertebrados[4] = new Vertebrado("Aguila", "Ave");  
+        miVertebrados[4] = new Vertebrado("Aguila", "Ave");
+        miVertebrados[5] = new Vertebrado("Ballena", "Mamifero");   
         
         return miVertebrados;
     }
